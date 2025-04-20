@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-thakur01&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-thakur01" /> </p>
 
-- 🔭 I’m currently working on *krishi shayog*
+- 🔭 I’m currently working on *python language*
 
 - 🌱 I’m currently learning *html*
 
 - 📫 How to reach me *ayushthakurr007@gmail.com*
-
-- ⚡ Fun fact *no words*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
